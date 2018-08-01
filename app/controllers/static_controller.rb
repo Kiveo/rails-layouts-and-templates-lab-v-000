@@ -1,5 +1,7 @@
 class StaticController < ActionController::Base
 	layout "application"
-   def home
+
+  def home
   end
- en
+
+end
